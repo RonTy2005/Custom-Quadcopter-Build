@@ -74,7 +74,7 @@ Future upgrades include FPV transmission, telemetry data link, and autonomous wa
 
 ## 🧰 Software and Tools Used
 
-| Tool                               | Purpose                     |       |
+| Tool                               | Purpose                     |
 |------------------------------------|-----------------------------|
 | Radiolink Crossflight Configurator | FC setup and tuning         |
 | FlySky FS-i6S Transmitter Config   | Transmitter calibration     |
